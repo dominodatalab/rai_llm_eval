@@ -1,0 +1,43 @@
+sections:
+  - section_id: 1
+    title: "System Information"
+    subsections:
+      - subsection_id: 1.1
+        title: "System Purpose"
+        questions:
+          - question_id: 1.1.1
+            text: >
+              Briefly describe the purpose of the system and system features, focusing on how the system will address the needs
+              of the people who use it. Explain how the AI technology contributes to achieving these objectives.
+            response: >
+              The system is designed to streamline project management processes, making it easier for teams to collaborate, track progress, and meet deadlines efficiently. Key features include task assignment, progress tracking, and predictive analytics for project completion times. AI technology is utilized to analyze past project data, helping to predict potential bottlenecks and suggest optimal resource allocation, thereby enhancing decision-making and ensuring projects are completed on time and within budget.
+            criteria:
+              - "Clearly states the primary purpose of the system"
+              - "Describes key system features relevant to the purpose"
+              - "Explains how the system meets user needs"
+              - "Details how AI technology enhances system functionality"
+
+      - subsection_id: 1.2
+        title: "System Features"
+        questions:
+          - question_id: 1.2.1
+            text: >
+              Focusing on the whole system, briefly describe the system features or high-level feature areas that already exist and
+              those planned for the upcoming release.
+            response: >
+              Currently, the system boasts a robust task management module, real-time collaboration tools, and an analytics dashboard that provides insights into project health. For the upcoming release, we plan to introduce an AI-driven risk assessment feature that predicts project risks before they arise, and a resource optimization tool that suggests the best use of team members' time based on their skills and task priorities.
+            criteria:
+              - "Lists existing features of the system"
+              - "Identifies features planned for the next release"
+              - "Provides a clear distinction between existing and planned features"
+
+          - question_id: 1.2.2
+            text: >
+              Briefly describe how this system relates to other systems or products. For example, describe if the system includes
+              models from other systems.
+            response: >
+              Our system integrates seamlessly with several popular productivity tools, such as Trello for task management and Slack for communication. Additionally, we leverage AI models from external analytics platforms to enhance our predictive analytics features. This integration allows users to maintain their existing workflows while benefiting from our system's advanced project management capabilities.
+            criteria:
+              - "Describes relationships or integrations with other systems"
+              - "Mentions specific models or components borrowed from other systems"
+              - "Explains the significance of these relationships or integrations"
