@@ -12,7 +12,7 @@ sections:
             response: >
               The system is designed to streamline project management processes, making it easier for teams to collaborate, track progress, and meet deadlines efficiently. Key features include task assignment, progress tracking, and predictive analytics for project completion times. AI technology is utilized to analyze past project data, helping to predict potential bottlenecks and suggest optimal resource allocation, thereby enhancing decision-making and ensuring projects are completed on time and within budget.
             criteria:
-              - "Clearly states the primary purpose of the system"
+              - "Clearly states the primary purpose of the system "
               - "Describes key system features relevant to the purpose"
               - "Explains how the system meets user needs"
               - "Details how AI technology enhances system functionality"
